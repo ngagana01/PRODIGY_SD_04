@@ -5,7 +5,7 @@ This version allows users to enter their own Sudoku puzzle dynamically and valid
 
 ---
 
-## 🚀 Features
+##  Features
 
 -  Solves Sudoku using Backtracking (Recursive approach)
 -  Takes dynamic user input (row by row)
@@ -27,7 +27,7 @@ This version allows users to enter their own Sudoku puzzle dynamically and valid
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 advanced-sudoku-solver/
@@ -38,7 +38,7 @@ advanced-sudoku-solver/
 
 ---
 
-## ▶ How to Run the Project
+##  How to Run the Project
 
 1. Ensure Python is installed on your system.
 2. Clone this repository:
@@ -80,7 +80,7 @@ python app.py
 
 ---
 
-## 🧠 How the Algorithm Works
+##  How the Algorithm Works
 
 The program uses the Backtracking technique:
 
@@ -110,7 +110,7 @@ Developed as part of a Software Development Internship task to demonstrate algor
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 Gagana N  
 CSE Student | Python Learner | Aspiring Software Developer  
